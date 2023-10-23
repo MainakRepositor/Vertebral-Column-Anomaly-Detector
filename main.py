@@ -37,7 +37,7 @@ page = st.sidebar.radio("Pages", list(Tabs.keys()))
 df, X, y = load_data()
 
 # Call the app funciton of selected page to run
-if page in ["Prediction", "Visualisation"]:
+if page in ["Detection", "Visualisation"]:
     Tabs[page].app(df, X, y)
 elif (page == "Data Info"):
     Tabs[page].app(df)
