@@ -34,7 +34,17 @@ Building an application that can predict the onset of diabetes or the possible c
 
 ### Note:
 **Incase the application demo doesn't start real quick, you can get an idea about how it looks like from the screenshots**
+1. HOME PAGE
+![image](https://github.com/MainakRepositor/Vertebral-Column-Anomaly-Detector/assets/64016811/fb8cf10e-5ffb-4cd2-8d81-b10639f84043)
 
+2. DATA INFO PAGE
+![image](https://github.com/MainakRepositor/Vertebral-Column-Anomaly-Detector/assets/64016811/de44f5ec-05b1-46b8-a24e-b7b1a4f7c18c)
+
+3. DETECTION PAGE
+![image](https://github.com/MainakRepositor/Vertebral-Column-Anomaly-Detector/assets/64016811/009583ac-53eb-4dbe-b78c-273ca86956a2)
+
+4. VISUALIZATION PAGE
+![image](https://github.com/MainakRepositor/Vertebral-Column-Anomaly-Detector/assets/64016811/ebfd2a85-a8ec-421b-96d4-b55eb95a35f7)
 
 
 ### Made with 💙 by:
